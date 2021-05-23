@@ -1,4 +1,4 @@
-# Groceries-Market-Basket-Analysis
+# R- Groceries-Market-Basket-Analysis
 R - Groceries Market Basket Analysis
 This analysis was carried out in July 2020 as part of college course work - Higher Diploma in Data Analytics at the National College of Ireland (NCIRL). 
 ## Getting Started
